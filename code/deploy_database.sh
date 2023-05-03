@@ -1,5 +1,6 @@
 #! /bin/sh
 
+git pull origin
 
 mkdir /srv/db_sprint_I/
 
